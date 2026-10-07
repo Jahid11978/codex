@@ -1,17 +1,21 @@
 # Security Policy
 
-Thank you for helping us keep Codex secure!
+Owner: Jahid
 
-## Reporting Security Issues
+Security Contact:
+jahid11978@outlook.com
 
-The security is essential to OpenAI's mission. We appreciate the work of security researchers acting in good faith to identify and responsibly report potential vulnerabilities, helping us maintain strong privacy and security standards for our users and technology.
+Platform:
+JAHIDS.AI
 
-Our security program is managed through Bugcrowd, and we ask that any validated vulnerabilities be reported via the [Bugcrowd program](https://bugcrowd.com/engagements/openai).
+Report all vulnerabilities directly to the owner.
 
-## Vulnerability Disclosure Program
+## Supported Versions
 
-Our Vulnerability Program Guidelines are defined on our [Bugcrowd program page](https://bugcrowd.com/engagements/openai).
+Security updates are provided for the latest version.
 
-## How to operate CODEX safely
+## Reporting a Vulnerability
 
-For details on Codex security boundaries, including sandboxing, approvals, and network controls, see [Agent approvals & security](https://developers.openai.com/codex/agent-approvals-security).
+To report a security vulnerability, please contact jahid11978@outlook.com directly.
+
+Do not open a public issue for security vulnerabilities.
